@@ -1,5 +1,5 @@
 {
   "only-arches": ["x86_64"],
-  "end-of-life": "Extension point was changed",
+  "end-of-life": "Extension point changed, the new ID is com.valvesoftware.Steam.Utility.MangoHud",
   "end-of-life-rebase": "com.valvesoftware.Steam.Utility.MangoHud"
 }
